@@ -1,0 +1,11 @@
+{
+  "name": "pma5so.run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.13.1",
+    "@material-ui/core": "4.11.0",
+    "@material-ui/lab": "4.0.0-alpha.56",
+    "react-dom": "16.13.1"
+  }
+}
